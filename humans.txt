@@ -21,4 +21,8 @@ MeMA
 
     HTML5, CSS3
     jQuery, Modernizr
+<<<<<<< HEAD
 MeME
+=======
+	Jenkins
+>>>>>>> Jenkins In Humans
