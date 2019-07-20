@@ -13,7 +13,12 @@ ME
     <name>
 
 # TECHNOLOGY COLOPHON
+
 MA	F
+
+Doc Dog
+MeMA
+
     HTML5, CSS3
     jQuery, Modernizr
 MeME
