@@ -3,6 +3,9 @@
 
 # TEAM
 NewLine
+Jar
+ME
+
     <name> -- <role> -- <twitter>
 
 # THANKS
